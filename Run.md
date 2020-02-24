@@ -1,3 +1,3 @@
-[!output](/Output.png)
+![output](Output.png)
 
 *Output displayed in Pycharm*
